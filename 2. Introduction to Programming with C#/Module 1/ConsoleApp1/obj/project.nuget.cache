@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9ikUrv0mp8=",
+  "success": true,
+  "projectFilePath": "D:\\Coursera\\Full-Stack\\2. Introduction to Programming with C#\\Module 1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuand\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

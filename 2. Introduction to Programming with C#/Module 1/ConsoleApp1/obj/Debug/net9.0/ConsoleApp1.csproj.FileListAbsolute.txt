@@ -1,0 +1,17 @@
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\bin\Debug\net9.0\Pastel.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 1\ConsoleApp1\obj\Debug\net9.0\ConsoleA.CB28C8CC.Up2Date
