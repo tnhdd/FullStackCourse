@@ -1,0 +1,14 @@
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\bin\Debug\net9.0\Module3.exe
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\bin\Debug\net9.0\Module3.deps.json
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\bin\Debug\net9.0\Module3.runtimeconfig.json
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\bin\Debug\net9.0\Module3.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\bin\Debug\net9.0\Module3.pdb
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.AssemblyInfoInputs.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.AssemblyInfo.cs
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.csproj.CoreCompileInputs.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\refint\Module3.dll
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.pdb
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\Module3.genruntimeconfig.cache
+D:\Coursera\Full-Stack\2. Introduction to Programming with C#\Module 3\Module3\obj\Debug\net9.0\ref\Module3.dll
