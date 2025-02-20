@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="“en”">
+  <head>
+    <meta charset=“UTF-8"> <meta name=“viewport” content=“width=device-width,
+    initial-scale=1.0">
+    <title>Contosco Dasboard</title>
+  </head>
+  <body>
+    <h1 id="quoteHeader">uote of the Day</h1>
+    <div id="info">Loading data...</div>
+    <script>
+      // Access the header and information sections
+      let header = document.getElementById("header");
+      let info = document.getElementById("info");
+      let newData = document.createElement("p");
+      newData.textContent = "New data point: 100 users online";
+      header.textContent = "Constoso Dasboard";
+      info.textContent = "Current data: 42 new alerts";
+      info.appendChild(newData);
+    </script>
+  </body>
+</html>
